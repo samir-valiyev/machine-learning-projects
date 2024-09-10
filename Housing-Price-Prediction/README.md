@@ -1,7 +1,7 @@
 # Housing price prediction
 
 # CLICK HERE TO SEE THE CODE:
-
+https://github.com/samir-valiyev/machine-learning-projects/blob/develop/Housing-Price-Prediction/project.ipynb
 
 
 ## Data Tidying: 
